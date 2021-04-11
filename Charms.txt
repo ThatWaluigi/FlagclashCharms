@@ -1,0 +1,1 @@
+[457, 300, 'VoidCore', 'Go into the Void to claim its Core']
