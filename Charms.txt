@@ -1,1 +1,1 @@
-[457, 300, 'VoidCore', 'Go into the Void to claim its Core']
+[535, 185, 'E', 'A', '20', '10', '40', 'Glowstone', '1', 'Ea']
