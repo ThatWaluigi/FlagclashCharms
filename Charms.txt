@@ -1,1 +1,5 @@
 
+[298, 89, 'Aquatic Bracelet', 'Swim into the water and go into the crack in the Rock', 122, 50, -155, 'Shipwreck Shores', 1, 'Increases your Ability to Swim']
+[338, 151, 'Golden Relic', 'Explode the cracked cobblestone with a flag break', 181, 73, -71, 'Entangled Woods', 2, 'Give more gold the futhur away from your flag']
+[352, 140, 'Lifeblood Heart', 'Do the Block pushing Puzzle', 186, 75, -104, 'Entangled Woods', 2, 'Heals your Wounds over Time']
+[357, 222, 'Honey Core', 'Get the Honey effect from the bottom of the hill, and bring it here', 209, 92, 2, 'Honey Mount', 2, 'Channel the power of Honey']
