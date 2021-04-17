@@ -3,3 +3,7 @@
 [338, 151, 'Golden Relic', 'Explode the cracked cobblestone with a flag break', 181, 73, -71, 'Entangled Woods', 2, 'Give more gold the futhur away from your flag']
 [352, 140, 'Lifeblood Heart', 'Do the Block pushing Puzzle', 186, 75, -104, 'Entangled Woods', 2, 'Heals your Wounds over Time']
 [357, 222, 'Honey Core', 'Get the Honey effect from the bottom of the hill and bring it here', 209, 92, 2, 'Honey Mount', 2, 'Channel the power of Honey']
+[273, 81, 'Enforced Medallion', 'Rebuild  the Structure at (56-64-112) Here', 73, 79, -156, 'Shipwreck Shores', 1, 'Reinforces any Hard clay you place']
+[263, 91, 'Fruitful Armlet', 'Explode the Cracked Cobblestone', -19, 101, -92, 'Soulshrine Forest', 1, 'Allows you to consume Sweet Berries']
+[111, 141, 'Lightthirst', 'Do the Block Puzzle', -118, 129, -62, 'Soulshrine Peaks', 1, 'Reduces Potion Curse']
+[192, 121, 'Fruitful Armlet', 'Explode the Cracked Cobblestone', -19, 101, -92, 'Soulshrine Forest', 1, 'Allows you to consume Sweet Berries']
